@@ -12,8 +12,11 @@
     "ejs": "~2.5.7",
     "express": "~4.15.5",
     "morgan": "~1.9.0",
+    "mqtt": "^2.15.1",
     "nodemon": "^1.14.11",
     "serve-favicon": "~2.4.5",
+    "socket.io": "^2.0.4",
+    "socket.mvc": "^0.2.0",
     "systeminformation": "^3.33.18"
   }
 }
